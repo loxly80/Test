@@ -94,6 +94,7 @@ namespace Kostky_IT1B
 
         private void btnHod_Click(object sender, RoutedEventArgs e)
         {
+            MessageBox.Show("Ahoj");
             //foreach (var kostka in kostky)
             //{
             //    kostka.Hod();
